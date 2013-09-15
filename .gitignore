@@ -11,3 +11,13 @@
 *.lai
 *.la
 *.a
+
+# precompiled header
+*.ipch
+*.pch
+
+# rubbish in debug folder
+*.log
+*.tlog
+*.idb
+*.pdb
