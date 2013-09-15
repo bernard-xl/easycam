@@ -21,3 +21,6 @@
 *.tlog
 *.idb
 *.pdb
+
+# the big evil
+*.sdf
