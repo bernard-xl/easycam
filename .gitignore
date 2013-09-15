@@ -21,6 +21,8 @@
 *.tlog
 *.idb
 *.pdb
+*.lastbuildstate
+*ilk
 
 # the big evil
 *.sdf
